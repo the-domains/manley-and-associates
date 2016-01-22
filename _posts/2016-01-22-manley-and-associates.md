@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T06:16:24.383Z'
-dateModified: '2016-01-22T06:16:19.131Z'
+datePublished: '2016-01-22T06:18:31.736Z'
+dateModified: '2016-01-22T06:18:28.782Z'
 title: 'Manley & Associates'
 author: []
 sourcePath: _posts/2016-01-22-manley-and-associates.md
