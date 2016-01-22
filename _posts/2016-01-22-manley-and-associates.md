@@ -6,20 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T06:10:04.515Z'
-dateModified: '2016-01-22T06:08:59.928Z'
+datePublished: '2016-01-22T06:11:30.158Z'
+dateModified: '2016-01-22T06:11:29.126Z'
 title: 'Manley & Associates'
 author: []
+sourcePath: _posts/2016-01-22-manley-and-associates.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-22-manley-and-associates.md
-published: true
 url: manley-and-associates/index.html
 _type: Article
 
 ---
 # Manley & Associates
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/509510f7-4268-40bd-ac4c-a22f85586140.jpg)
