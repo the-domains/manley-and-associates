@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T06:18:31.772Z'
+datePublished: '2016-01-22T06:18:31.775Z'
 dateModified: '2016-01-22T06:18:28.782Z'
 title: 'Manley & Associates'
 author: []
