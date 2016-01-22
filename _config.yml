@@ -1,6 +1,6 @@
 name: 'Manley & Associates'
 favicon: null
-layout_spectrum: 0.5332524369005114
+layout_spectrum: 0.28116
 typography_spectrum: 0.22417380078695714
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#cdcabc'
     - '#00eaff'
     - '#484933'
-  brandStrength: 0.34991088998503983
+  brandStrength: 0.4375
   lightness: 0.772275966592133
   saturation: 0.6515631431248039
   rhythmicContrast: 0.9938332848250866
