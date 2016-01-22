@@ -21,7 +21,7 @@ color:
     - '#cdcabc'
     - '#00eaff'
     - '#484933'
-  brandStrength: 0.75
+  brandStrength: 0
   lightness: 0.772275966592133
   saturation: 0.375
   rhythmicContrast: 0.9938332848250866
